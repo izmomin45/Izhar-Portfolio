@@ -12,7 +12,6 @@ This repository serves as a platform to showcase my skills, share projects, and 
 ## Table of Contents
 - [About](#about)
 - [Project](#Project)
--       [Zomato Analysis Tableau] (#Zomata-Analysis-Tableau)
 - [Education](#Education)
 - [Certificates](#Certificates)
 - [Contact](#Contact)
@@ -22,8 +21,10 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 
 
-## Project
-### 1] Zomato Analysis Tableau :
+# Project
+### 1] [Zomato Analysis Tableau](#Zomato-Analysis-Tableau) :
+### 2] [Ola Uber Power BI] (#Ola-Uber-Power-BI)
+## 1] Zomato Analysis Tableau
 #### Discription : 
 -This project involves a Tableau-based dashboard analyzing Zomato's sales, orders, and customer data from 2020 to 2023. The dashboards provide insights into sales trends, customer demographics, and cuisine preferences with interactive filters for year and top-N customers/cities.
 
@@ -43,7 +44,7 @@ Links:
 - [GitHub Repository](https://github.com/izmomin45/Zomato-Analysis)
 - [Tableau Dashboard](https://public.tableau.com/app/profile/momin.izhar/viz/ZomatoAnalysis_17288131095090/Zomato2)
 
-
+## 2] Ola Uber Power BI
 
 ## Contact
 Momin Izhar Nisar
