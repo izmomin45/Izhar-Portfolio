@@ -40,8 +40,9 @@ Technologies: Tableau, GitHub
 
 Links:
 
-[GitHub Repository] (#https://github.com/izmomin45/Zomato-Analysis)
-[Tableau Dashboard] (#https://public.tableau.com/app/profile/momin.izhar/viz/ZomatoAnalysis_17288131095090/Zomato2)
+- [GitHub Repository](https://github.com/izmomin45/Zomato-Analysis)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/momin.izhar/viz/ZomatoAnalysis_17288131095090/Zomato2)
+
 
 
 ## Contact
