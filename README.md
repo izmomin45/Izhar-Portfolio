@@ -2,7 +2,7 @@
 🌟 Turning Data into Actionable Insights
 
 ## 📜 Table of Contents
-- [About Me](#about-me)
+- [About Me](#AboutMe)
 - [Portfolio Projects](#portfolio-projects)
 - [Skills & Technology Stack](#skills--technology-stack)
 - [Certifications](#certifications)
