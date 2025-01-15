@@ -11,7 +11,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/izmomin45/Izhar-Portfolio/edit/main/README.mdabout)
+- [About](#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
