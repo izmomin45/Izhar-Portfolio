@@ -58,23 +58,23 @@ Links:
 
 
 
-## 🎓 Education
-Bachelor of Science in Computer Science
-University of Mumbai
-📍 Mumbai, India
-🗓 2019 – 2022
+## Education
+-### Bachelor of Science in Computer Science
+-University of Mumbai
+-📍 Mumbai, India
+-🗓 2019 – 2022
 
 
-Higher Secondary Certificate (HSC)
-Shad Adam Tech Tr Junior College
-📍 Mumbai, India
-🗓 2016 – 2017
+-### Higher Secondary Certificate (HSC)
+-Shad Adam Tech Tr Junior College
+-📍 Mumbai, India
+-🗓 2016 – 2017
 
 
-Secondary School Certificate (SSC)
-Mulana Azad  High School
-📍 Mumbai, India
-🗓 2014 – 2015
+-### Secondary School Certificate (SSC)
+-Mulana Azad  High School
+-📍 Mumbai, India
+-🗓 2014 – 2015
 
 
 ## Contact
