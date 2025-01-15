@@ -1,5 +1,5 @@
 # Izhar Momin 
-## Data Analyst Portfolio
+##                                     Data Analyst Portfolio
 ## About
 Hi,I am Momnin Izhar , A inspiring Data Analytics .Cureent Open for Fresher data analytics role .I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
