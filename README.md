@@ -22,9 +22,9 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 
 # Project
-### 1] [Zomato Analysis Tableau](#Zomato-Analysis-Tableau) :
-### 2] [Ola Uber Power BI] (#Ola-Uber-Power-BI)
-## 1] Zomato Analysis Tableau
+### 1] [Zomato](#Zomato) :
+### 2] [Ola Uber Power BI](#Ola-Uber-Power-BI)
+## 1] Zomato
 #### Discription : 
 -This project involves a Tableau-based dashboard analyzing Zomato's sales, orders, and customer data from 2020 to 2023. The dashboards provide insights into sales trends, customer demographics, and cuisine preferences with interactive filters for year and top-N customers/cities.
 
