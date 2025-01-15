@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 This project focuses on analyzing ride-sharing data...
 
 ### **Zomato Analysis**
-[View on GitHub](https://github.com/izmomin45/Zomato-Analysis) | [Tableau Dashboard](https://public.tableau.com/...)
+[View on GitHub](https://github.com/izmomin45/Zomato-Analysis) | [Tableau Dashboard]([https://public.tableau.com/...](https://public.tableau.com/app/profile/momin.izhar/viz/ZomatoAnalysis_17288131095090/Zomato2))
 
 This project involves Tableau-based dashboards analyzing...
 
