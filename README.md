@@ -53,9 +53,14 @@ Links:
 
 
 
+## Certification
+-Complete Data Analyst Bootcamp From Basics to Advanced
+-Issued by: Udemy
+-Instructors: Krish Naik, Jayant Topnani, KRISHAI Technologies Private Limited
+-Date Completed: November 3, 2024
+-Duration: 66.5 Total Hours
 
-
-
+-This comprehensive course covered foundational to advanced concepts in data analysis, equipping me with hands-on experience in tools such as Python, SQL, and data visualization techniques. The curriculum included real-world case studies, fostering a deeper understanding of data-driven decision-making and business analytics.
 
 
 ## Education
