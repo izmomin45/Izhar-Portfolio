@@ -12,10 +12,36 @@ This repository serves as a platform to showcase my skills, share projects, and 
 ## Table of Contents
 - [About](#about)
 - [Project](#Project)
+-       [Zomato Analysis Tableau] (#Zomata-Analysis-Tableau)
 - [Education](#Education)
 - [Certificates](#Certificates)
-  [Contact](#Contact)
+- [Contact](#Contact)
 
+
+
+
+
+
+## Projecct
+### 1] Zomato Analysis Tableau :
+#### Discription : 
+-This project involves a Tableau-based dashboard analyzing Zomato's sales, orders, and customer data from 2020 to 2023. The dashboards provide insights into sales trends, customer demographics, and cuisine preferences with interactive filters for year and top-N customers/cities.
+
+#### Key Insights:
+
+Top Sales City (2023): West John with sales of 1,034.7.
+Peak Ordering Day: Wednesday, accounting for 16.066% of total sales.
+Cuisine Preferences: Indian and American cuisines dominate with over 600 orders each.
+Customer Age Group: Mid Age group (25–45 years) made the most orders in 2023.
+Top Customer: Elizabeth Newman, the top customer for 2023.
+Average Order Value (2023): $60.52.
+Average Rating (2023): 3.99, indicating room for service improvement.
+Technologies: Tableau, GitHub
+
+Links:
+
+[GitHub Repository] (#https://github.com/izmomin45/Zomato-Analysis)
+[Tableau Dashboard] (#https://public.tableau.com/app/profile/momin.izhar/viz/ZomatoAnalysis_17288131095090/Zomato2)
 
 
 ## Contact
