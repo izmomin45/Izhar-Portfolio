@@ -22,7 +22,7 @@ This repository serves as a platform to showcase my skills, share projects, and 
 
 
 
-## Projecct
+## Project
 ### 1] Zomato Analysis Tableau :
 #### Discription : 
 -This project involves a Tableau-based dashboard analyzing Zomato's sales, orders, and customer data from 2020 to 2023. The dashboards provide insights into sales trends, customer demographics, and cuisine preferences with interactive filters for year and top-N customers/cities.
