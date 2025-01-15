@@ -1,6 +1,6 @@
 # Izhar Momin 
-## Data Analyst Portfolio
-## About
+### Data Analyst Portfolio
+### About
 Hi, I am Momin Izhar, an aspiring Data Analyst currently open to entry-level roles in data analytics. With a strong foundation in life sciences and a passion for using data to uncover meaningful insights, I am eager to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
 During my studies, I developed expertise in working with complex datasets and honed my ability to identify patterns and trends. My experience includes laboratory techniques, data management, and statistical analysis, which I believe are valuable assets for a career in data analytics.
@@ -53,33 +53,37 @@ Links:
 
 
 
-## Certification
--Complete Data Analyst Bootcamp From Basics to Advanced
--Issued by: Udemy
--Instructors: Krish Naik, Jayant Topnani, KRISHAI Technologies Private Limited
+## Certificates
+Complete Data Analyst Bootcamp From Basics to Advanced
+
+Issued by: Udemy
+
+Instructors: Krish Naik, Jayant Topnani, KRISHAI Technologies Private Limited
+
 -Date Completed: November 3, 2024
--Duration: 66.5 Total Hours
+
+Duration: 66.5 Total Hours
 
 -This comprehensive course covered foundational to advanced concepts in data analysis, equipping me with hands-on experience in tools such as Python, SQL, and data visualization techniques. The curriculum included real-world case studies, fostering a deeper understanding of data-driven decision-making and business analytics.
 
 
 ## Education
--### Bachelor of Science in Computer Science
--University of Mumbai
--📍 Mumbai, India
--🗓 2019 – 2022
+### Bachelor of Science in Computer Science
+University of Mumbai
+📍 Mumbai, India
+🗓 2019 – 2022
 
 
--### Higher Secondary Certificate (HSC)
--Shad Adam Tech Tr Junior College
--📍 Mumbai, India
--🗓 2016 – 2017
+### Higher Secondary Certificate (HSC)
+Shad Adam Tech Tr Junior College
+📍 Mumbai, India
+🗓 2016 – 2017
 
 
--### Secondary School Certificate (SSC)
--Mulana Azad  High School
--📍 Mumbai, India
--🗓 2014 – 2015
+### Secondary School Certificate (SSC)
+Mulana Azad  High School
+📍 Mumbai, India
+🗓 2014 – 2015
 
 
 ## Contact
