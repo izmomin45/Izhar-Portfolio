@@ -2,7 +2,7 @@
 🌟 Turning Data into Actionable Insights
 
 ## 📜 Table of Contents
-- [About Me](#AboutMe)
+- [About Me](https://github.com/izmomin45/Izhar-Portfolio/blob/main/README.md#AboutMe)
 - [Portfolio Projects](#portfolio-projects)
 - [Skills & Technology Stack](#skills--technology-stack)
 - [Certifications](#certifications)
